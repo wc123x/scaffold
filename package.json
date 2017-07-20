@@ -1,0 +1,22 @@
+{
+  "name": "tools-dev",
+  "version": "1.0.0",
+  "description": "tools for generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wc123x/scaffold.git"
+  },
+  "keywords": [
+    "scaffold"
+  ],
+  "author": "wc123x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wc123x/scaffold/issues"
+  },
+  "homepage": "https://github.com/wc123x/scaffold#readme"
+}
